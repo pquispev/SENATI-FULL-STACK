@@ -1,1 +1,3 @@
 # SENATI-FULL-STACK
+
+descripcion de FULL STACK
